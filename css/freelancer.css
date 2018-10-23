@@ -151,9 +151,6 @@ section h2 {
     font-size: 2em;
     -webkit-transition: font-size 0.3s;
     transition: font-size 0.3s;
-    <nav class="navbar navbar-light bg-light">
-  <span class="navbar-brand mb-0 h1">Element Of SEPRise</span>
-</nav>
   }
   #mainNav .navbar-nav {
     margin-top: 0;
