@@ -194,6 +194,8 @@ header video {
   -moz-transform: translateX(-50%) translateY(-50%);
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
+  height: 100vh; 
+  min-height: 100%;
 }
 
 header .container {
