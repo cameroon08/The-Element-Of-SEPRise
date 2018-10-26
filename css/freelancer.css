@@ -173,18 +173,13 @@ section h2 {
 }
 
 video#bgvid { 
-    position: fluid;
-    top: 50%;
-    left: 50%;
+    position: fixed;
+    top: 100%;
+    left: 100%;
     min-width: 100%;
     min-height: 100%;
     width: auto;
     height: auto;
-    z-index: -100;
-    -ms-transform: translateX(-50%) translateY(-50%);
-    -moz-transform: translateX(-50%) translateY(-50%);
-    -webkit-transform: translateX(-50%) translateY(-50%);
-    transform: translateX(-50%) translateY(-50%);
     background: url(img/portfolio/start.jpg) no-repeat;
     background-size: cover; 
 }
